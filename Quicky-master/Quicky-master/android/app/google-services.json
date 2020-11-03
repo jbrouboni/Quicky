@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223525038588",
+    "firebase_url": "https://quicky-d2eda.firebaseio.com",
+    "project_id": "quicky-d2eda",
+    "storage_bucket": "quicky-d2eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223525038588:android:dcf33e3776d04bcbdcea79",
+        "android_client_info": {
+          "package_name": "co.sofiane.quicky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223525038588-rre0ap1cecjk5jg70moug2upkvgbce42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL798nLHW_sWWDgTGW5rTxvZNsoJ_q-qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223525038588-rre0ap1cecjk5jg70moug2upkvgbce42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223525038588-8mcgsg7hheinck3qpuk7fvqsj0m1h0c0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.sofiane.quicky"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
